@@ -1,0 +1,26 @@
+# TILES
+# (Space) - Empty tile
+# A - Full Dirt
+# B - Top Ground
+# C - Left Wall
+# D - Right Wall
+# E - Wall Top Left Corner
+# F - Wall Top Right Corner
+# G - Wall Bottom Left Corner
+# H - Wall Bottom Right Corner
+# I - Platform Left End
+# J - Platform Middle
+# K - Platform Right End
+# L - Platform Cave Bottom Left
+# M - Platform Cave Bottom Middle
+# N - Platform Cave Bottom Right
+                         
+                         
+                         
+                         
+                         
+                         
+BF                     EB
+AHF                   EGA
+AAHF                 EGAA
+AAAHBBBBBBBBBBBBBBBBBGAAA
