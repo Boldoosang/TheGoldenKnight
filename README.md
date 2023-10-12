@@ -18,7 +18,7 @@ java GameApplication
 
 
 ## CONTROLS & FEATURES
-The following is a list of features that are implemented into the developed web application:
+The following is a list of features that are implemented into the game:
 * Move the Golden Knight with the arrow keys.
 * Attack using 'Z'.
 * Jump using the spacebar.
